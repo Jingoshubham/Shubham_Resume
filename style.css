@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+.backtop{
+    background-color: yellow;
+    height: 150px;
+    margin-top: 0%;
+}
+
+img{
+    border-radius: 60%;
+    margin-top: 40px;
+    margin-left: 80px;
+    display: inline;
+}
+.heading{
+    display: inline;
+    margin-bottom: 100px;
+    color: brown;
+}
+.about{
+    
+    border-bottom: solid brown 3px;
+    display: inline;
+
+}
+body{
+    
+    background-color:antiquewhite;
+}
+.pop{
+margin: 1rem;
+}
+.hco{
+    border-bottom: solid brown 3px ;
+    display: inline;
+}
+.coh{
+    border-bottom: solid brown 3px ;
+    display: inline;
+    margin-top: 40px;
+}
+.pjo{
+    border-bottom: solid brown 3px ;
+    display: inline;
+
+}
+.indiv
+{
+    margin-left: 50px;
+}
+p{
+    text-align: justify;
+}
+@media(max-width:600px)
+{
+    img{
+        text-align: center;
+    }
+    h1{
+        font-weight: 700;
+    }
+}
+@media(min-width:610px)
+{
+    img{
+        margin-right: 200px;
+    }
+}
+a{
+    text-decoration: none;
+}
